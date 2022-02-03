@@ -16,13 +16,13 @@ REDIS_CONN = 'redis://localhost:6379/1'
 
 SPIDERS = [
     "guang_diu",
-    "smzdm"
+    "smzdm",
+    "ysj"
 ]
 
 SEARCH_WORDS = [
-    "可心柔 保湿抽纸",
-    "全棉时代 湿纸巾",
-    "光羽 s码"
+    "可心柔 保湿纸",
+    "全棉时代 湿纸巾"
 ]
 
 # 线程数量
